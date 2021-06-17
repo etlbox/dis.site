@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
-        <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
+        <form name="contact" action="{{ site.Params.contact_form_action | safeURL }}" method="POST" data-netlify="true">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="{{ i18n `yourname` }}">
           <input type="text" class="form-control mb-3" id="organization" name="organization" placeholder="{{ i18n `yourorganization` }}">
           <input type="text" class="form-control mb-3" id="country" name="country" placeholder="{{ i18n `yourcountry` }}">
