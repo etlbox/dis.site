@@ -1,0 +1,13 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Data Integration Services"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "Services offered by ETLBox"
+# copyright
+copyright = "Crafted with love in Berlin"

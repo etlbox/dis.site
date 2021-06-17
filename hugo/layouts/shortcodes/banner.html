@@ -1,0 +1,4 @@
+<div class="mx-auto text-center mt-5 mb-0">
+    <img src="{{ .Get "image" }}" alt="" class="img-fluid {{ if .Get "scale" }}w-{{ .Get "scale" }}{{ end }}">
+    <div class="text-right backlink">{{ .Get "backlink" | markdownify }}</div>
+</div>

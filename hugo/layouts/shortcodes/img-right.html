@@ -1,0 +1,10 @@
+
+    <div class="row">
+        <div class="col-lg-7">
+            {{ .Inner | markdownify }}
+        </div>
+        <div class="col-lg-5 mx-auto text-center">
+            <img src="{{ .Get "img"}}" alt="" class="img-fluid">
+            <div class="text-right backlink">{{ .Get "backlink" | markdownify }}</div>
+        </div>
+    </div>
