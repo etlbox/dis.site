@@ -1,8 +1,7 @@
 [build]
 publish = "public"
-command = "cd hugo && hugo --gc"
+command = "hugo --gc --environment Production"
 
 [build.environment]
 HUGO_VERSION = "0.83.1"
-HUGO_THEME = "repo"
 HUGO_BASEURL = "/"
