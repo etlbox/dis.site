@@ -13,11 +13,9 @@
 
 <body>
 
-	{{ if hugo.IsProduction }}
-	{{ partialCached "preloader.html" . }}
+	{{ if hugo.IsProduction }}	
 	{{ partialCached "header.html" . }}
-	{{ else }}
-	{{ partial "preloader.html" . }}
+	{{ else }}	
 	{{ partial "header.html" . }}
 	{{ end }}
 

@@ -1,8 +1,3 @@
-// Preloader js
-$(window).on('load', function () {
-	$('.preloader').addClass('d-none');
-});
-
 (function($) {
 	'use strict';
 

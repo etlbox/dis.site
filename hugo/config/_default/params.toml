@@ -7,11 +7,7 @@ author = "ETLBox Office"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "contact/expert" 
-
-# Preloader
-[preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+favicon="favicon.ico"
 
 # Navigation buttons
 [navigation_button]
