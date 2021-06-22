@@ -6,7 +6,7 @@ description = "Data Integration Services - we connect any system with any data s
 author = "ETLBox Office"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "contact/expert" 
+contact_form_action = "/other/thanks/" 
 favicon="favicon.ico"
 
 # Navigation buttons
