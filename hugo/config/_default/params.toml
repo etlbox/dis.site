@@ -2,11 +2,11 @@
 logo = "logos/logo_etlbox_dis_text.svg"
 logo_width = "160px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Data Integration Services - we connect any system with any data source or API."
+author = "ETLBox Office"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "#" 
+contact_form_action = "contact/expert" 
 
 # Preloader
 [preloader]
