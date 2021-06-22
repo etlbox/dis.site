@@ -1,4 +1,5 @@
 ---
+title : "Custom made data integration services"
 ####################### Banner #########################
 banner:
   title : "Custom-Made Data Integration Services"
