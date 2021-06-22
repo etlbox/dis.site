@@ -5,7 +5,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Service"
+name = "Details"
 url = "service"
 weight = 2
 
@@ -33,7 +33,7 @@ url = "about"
 # footer menu middle
 
 [[footer_middle]]
-name = "Service"
+name = "Details"
 url = "service"
 
 [[footer_middle]]

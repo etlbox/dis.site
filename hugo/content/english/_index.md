@@ -63,9 +63,9 @@ service:
 
       content : "Taking care of data integration project can be time-consuming and costly. With our service we deliver your data wherever you need it, in the format you need it. Data is kept in sync automatically. That way you can focus on your business, and we take care that your data is there where you need it and when you need it."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Read more about our service"
+        link : "service"
         
     # service item loop
     - title : "Benefit from a proven system"
@@ -76,8 +76,8 @@ service:
       content : "We have the technology to connect with almost everything. Our integration code is based on ETLBox, a proven software library that can connect with the most common databases and APIs. It can be deployed easily in the cloud on On-Promise. You can choose if you want us to host the service, or if you prefer to deploy it in your environment. You can always access a Github repo that contains the complete code of your integration."
       button:
         enable : false
-        label : "Check it out"
-        link : "#"
+        label : "Learn more"
+        link : "https://www.etlbox.net"
         
     # service item loop
     - title : "Transform your data"
@@ -87,9 +87,9 @@ service:
             backlink : "<a href='https://www.freepik.com/vectors/people'>People vector created by vectorjuice - www.freepik.com</a>"
       content : "Choose how you would like to transform your data - our services allows you to clean, decode, enrich or transform your data in any way you want. You can use our service for a one-time migration project, or for periodic data flows. If needed, data can be prepared on the fly for analytical purposes. Just describe your needs and we create all the necessary transformation code for you."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Learn more"
+        link : "service"
        
         
 ################### Screenshot ########################

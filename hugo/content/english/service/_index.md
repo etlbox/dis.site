@@ -1,6 +1,6 @@
 ---
 title: "Learn all about our service"
-subtitle: "Read more about the advantages of being a customer our data integration services."
+subtitle: "Read more about the advantages of being a customer of our data integration services."
 # meta description
 description: "Details about our data integration services"
 draft: false
