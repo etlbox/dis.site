@@ -2,7 +2,7 @@
 baseURL = "http://www.data-integration.services/"
 title = "Data Integration Service"
 # google analytics
-googleAnalytics = "G-SR4L527X78" # example : UA-123-45
+googleAnalytics = "UA-177207474-2" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
