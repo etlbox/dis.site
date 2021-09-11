@@ -24,7 +24,7 @@ basic:
     
 professional:
   name : "SaaS Starter Plan"
-  price: "299 €"
+  price: "199 €"
   price_per : "month"
   info : "Our SaaS starter"
   services:
