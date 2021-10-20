@@ -24,12 +24,12 @@ basic:
     
 professional:
   name : "SaaS Starter Plan"
-  price: "199 €"
+  price: "99 €"
   price_per : "month"
   info : "Our SaaS starter"
   services:
-  - "Up to 10 entities/endpoints"
-  - "Up to 10,000 records per entity"
+  - "Up to 5 entities/endpoints"
+  - "Access to service dashboard"
   - "Any source to any destination"
   - "Unlimited transformations"
   - "Custom-made integration code"
@@ -41,12 +41,12 @@ professional:
     
 business:
   name : "Self-hosted plan"
-  price: "1999 €"
+  price: "799 €"
   price_per : "year"
   info : "Self-managed solutions"
   services:
-  - "Up to 10 entities/endpoints"
-  - "Up to 10,000 records per entity"
+  - "Up to 5 entities/endpoints"
+  - "Unlimited records per entity"
   - "Any source to any destination"
   - "Unlimited transformations"    
   - "Custom-made integration code"
