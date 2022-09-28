@@ -24,7 +24,7 @@ basic:
     
 professional:
   name : "SaaS Starter Plan"
-  price: "79 €"
+  price: "59 €"
   price_per : "month"
   info : "Our SaaS starter"
   services:
@@ -41,7 +41,7 @@ professional:
     
 business:
   name : "Self-hosted plan"
-  price: "799 €"
+  price: "599 €"
   price_per : "year"
   info : "Self-managed solutions"
   services:
